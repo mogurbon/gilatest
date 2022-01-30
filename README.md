@@ -39,3 +39,8 @@ para verlo se utiliza el servidor integrado de laravel en
 http://127.0.0.1:8000/
 
 php artisan serve
+
+
+El front esta instalado sobre laravel con componentes de Vue
+
+sobre /api se encuentran los endpoints para extender  
